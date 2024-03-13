@@ -1,0 +1,25 @@
+
+
+#video-container button {
+    font-size: 1.8rem;
+    background-color: var(--black);
+    color: var(--white);
+    border-radius: .7rem;
+    padding: .7rem 2.4rem;
+    cursor: pointer;
+}
+
+#video-feed {
+    display: none;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
+/* .btn button {
+    font-size: 1.8rem;
+    background-color: var(--black);
+    color: var(--white);
+    border-radius: .7rem;
+    padding: .7rem 2.4rem;
+    cursor: pointer;
+} */
